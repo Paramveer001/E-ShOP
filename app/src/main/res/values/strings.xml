@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EShop</string>
+    <string name="first_slide">Choose Your Products</string>
+    <string name="second_slide">Fast Delievery</string>
+    <string name="third_slide">Good Service</string>
+
+    <string name="description">
+        Ecommerce is your ultimate shopping companion. With curated collections, lightning-fast search, personalized recommendations, secure checkout, and 24/7 customer support, it’s the go-to app for seamless online shopping. Download now and elevate your shopping experience! 🛒🎉</string>
+</resources>
